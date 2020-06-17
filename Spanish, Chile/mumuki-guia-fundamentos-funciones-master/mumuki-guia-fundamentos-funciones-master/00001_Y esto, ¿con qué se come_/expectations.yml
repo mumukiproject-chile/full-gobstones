@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: MoverSegunBolitas
+    inspection: HasIf
+  - !ruby 
+    binding: MoverSegunBolitas
+    inspection: HasUsage:nroBolitas
