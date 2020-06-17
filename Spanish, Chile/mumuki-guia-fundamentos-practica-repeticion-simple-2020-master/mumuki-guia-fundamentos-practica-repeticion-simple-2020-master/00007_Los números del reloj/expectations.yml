@@ -1,0 +1,11 @@
+---
+expectations:
+  - !ruby 
+    binding: DibujarReloj
+    inspection: HasArity:1
+  - !ruby 
+    binding: DibujarReloj
+    inspection: HasUsage:MoverN
+  - !ruby 
+    binding: DibujarReloj
+    inspection: HasUsage:PonerN
