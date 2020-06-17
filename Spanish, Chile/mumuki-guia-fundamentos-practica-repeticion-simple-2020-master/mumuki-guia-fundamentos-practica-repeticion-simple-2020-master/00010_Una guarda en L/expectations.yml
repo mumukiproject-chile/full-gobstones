@@ -1,0 +1,17 @@
+---
+expectations:
+  - !ruby 
+    binding: GuardaEnL
+    inspection: Not:HasUsage:Poner
+  - !ruby 
+    binding: GuardaEnL
+    inspection: Not:HasUsage:PonerN
+  - !ruby 
+    binding: GuardaEnL
+    inspection: HasRepeat
+  - !ruby 
+    binding: GuardaEnL
+    inspection: HasUsage:PonerAzulejo
+  - !ruby 
+    binding: GuardaEnL
+    inspection: HasUsage:MoverN
