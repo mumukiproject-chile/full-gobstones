@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: DibujarLineaNegra6
+    inspection: HasRepeat
