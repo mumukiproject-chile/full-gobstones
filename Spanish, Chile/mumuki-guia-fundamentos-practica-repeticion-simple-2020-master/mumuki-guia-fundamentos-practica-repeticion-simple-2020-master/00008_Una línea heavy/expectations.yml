@@ -1,0 +1,14 @@
+---
+expectations:
+  - !ruby 
+    binding: LineaEstePesada
+    inspection: HasArity:3
+  - !ruby 
+    binding: LineaEstePesada
+    inspection: HasRepeat
+  - !ruby 
+    binding: LineaEstePesada
+    inspection: HasUsage:PonerN
+  - !ruby 
+    binding: LineaEstePesada
+    inspection: HasUsage:MoverN
