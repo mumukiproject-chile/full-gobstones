@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: MoverComoSea
+    inspection: HasIf
+  - !ruby 
+    binding: MoverComoSea
+    inspection: HasUsage:puedeMover
