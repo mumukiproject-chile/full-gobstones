@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: DiaDeLaMemoria
+    inspection: HasUsage:PonerN
+  - !ruby 
+    binding: DiaDeLaMemoria
+    inspection: Not:HasRepeat
