@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: DibujarLineaVerde3
+    inspection: HasUsage:VolverAtras
+  - !ruby 
+    binding: DibujarLineaVerde3
+    inspection: UsesRepeat
