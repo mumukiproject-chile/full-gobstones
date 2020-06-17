@@ -1,0 +1,11 @@
+---
+expectations:
+  - !ruby 
+    binding: PonerCuadradoMulticolor4
+    inspection: Uses:PonerLineaMulticolor4
+  - !ruby 
+    binding: program
+    inspection: Uses:PonerCuadradoMulticolor4
+  - !ruby 
+    binding: PonerCuadradoMulticolor4
+    inspection: Uses:IrAlBorde
