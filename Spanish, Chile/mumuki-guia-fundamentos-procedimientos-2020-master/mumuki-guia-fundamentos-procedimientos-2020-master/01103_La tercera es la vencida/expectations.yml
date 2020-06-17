@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: Triada
+    inspection: HasArity:3
