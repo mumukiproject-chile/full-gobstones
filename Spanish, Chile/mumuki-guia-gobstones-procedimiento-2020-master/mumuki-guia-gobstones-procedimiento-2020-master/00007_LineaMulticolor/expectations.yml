@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: program
+    inspection: Uses:PonerLineaMulticolor4
+  - !ruby 
+    binding: PonerLineaMulticolor4
+    inspection: Uses:IrAlBorde
