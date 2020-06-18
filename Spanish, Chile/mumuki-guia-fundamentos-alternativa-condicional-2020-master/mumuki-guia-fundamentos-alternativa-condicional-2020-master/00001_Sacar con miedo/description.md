@@ -7,4 +7,4 @@ procedure SacarAzulConMiedo() {
   Sacar(Azul)
 }
 ```
-> ¡Probalo! Copiá el código anterior en el editor y apretá _Enviar_.
+> ¡Pruébalo! Copia el código anterior en el editor y aprieta _Enviar_.
