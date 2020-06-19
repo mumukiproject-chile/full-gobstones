@@ -1,8 +1,8 @@
 ---
 expectations:
   - !ruby 
-    binding: DiaDeLaMemoria
+    binding: FiestasPatrias
     inspection: HasUsage:PonerN
   - !ruby 
-    binding: DiaDeLaMemoria
+    binding: FiestasPatrias
     inspection: Not:HasRepeat
