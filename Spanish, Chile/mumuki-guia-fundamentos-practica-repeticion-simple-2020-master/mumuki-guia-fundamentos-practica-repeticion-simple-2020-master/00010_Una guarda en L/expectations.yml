@@ -1,13 +1,13 @@
 ---
 expectations:
   - !ruby 
-    binding: GuardaEnL
+    binding: ListelEnL
     inspection: Not:HasUsage:Poner
   - !ruby 
-    binding: GuardaEnL
+    binding: ListelEnL
     inspection: Not:HasUsage:PonerN
   - !ruby 
-    binding: GuardaEnL
+    binding: ListelEnL
     inspection: HasRepeat
   - !ruby 
     binding: GuardaEnL
