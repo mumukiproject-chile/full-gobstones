@@ -1,6 +1,6 @@
 ---
 check_head_position: true
-subject: GuardaEnL
+subject: ListelEnL
 examples:
   - 
     initial_board: |
