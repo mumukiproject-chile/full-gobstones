@@ -10,7 +10,7 @@ expectations:
     binding: ListelEnL
     inspection: HasRepeat
   - !ruby 
-    binding: GuardaEnL
+    binding: ListelEnL
     inspection: HasUsage:PonerAzulejo
   - !ruby 
     binding: GuardaEnL
