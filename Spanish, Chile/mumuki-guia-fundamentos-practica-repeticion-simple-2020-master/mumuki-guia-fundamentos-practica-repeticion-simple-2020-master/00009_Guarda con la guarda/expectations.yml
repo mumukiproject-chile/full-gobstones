@@ -1,8 +1,8 @@
 ---
 expectations:
   - !ruby 
-    binding: GuardaDe5
+    binding: ListelDe5
     inspection: HasUsage:PonerN
   - !ruby 
-    binding: GuardaDe5
+    binding: ListelDe5
     inspection: HasRepeat
