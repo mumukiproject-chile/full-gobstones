@@ -1,4 +1,4 @@
-Tómate unos pocos minutos y trata de entender qué hace este procedimiento:
+Tómate unos minutos y trata de entender qué hace este procedimiento:
 
 ```gobstones
 procedure MoverSegunBolitas() {
