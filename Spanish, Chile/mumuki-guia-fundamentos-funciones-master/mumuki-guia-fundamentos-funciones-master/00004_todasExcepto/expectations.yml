@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: todasExcepto
+    inspection: HasArity:1
+  - !ruby 
+    binding: todasExcepto
+    inspection: HasUsage:nroBolitasTotal

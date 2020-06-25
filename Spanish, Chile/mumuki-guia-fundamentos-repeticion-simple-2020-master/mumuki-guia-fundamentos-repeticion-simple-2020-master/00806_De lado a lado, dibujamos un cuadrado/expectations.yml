@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: CuadradoNegro4
+    inspection: HasRepeat
+  - !ruby 
+    binding: CuadradoNegro4
+    inspection: HasUsage:LineaNegra4Este

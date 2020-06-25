@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: Fecha
+    inspection: HasUsage:PonerN
+  - !ruby 
+    binding: Fecha
+    inspection: Not:HasRepeat

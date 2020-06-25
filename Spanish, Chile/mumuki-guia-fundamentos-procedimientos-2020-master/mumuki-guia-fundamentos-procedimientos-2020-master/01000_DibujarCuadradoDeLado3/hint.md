@@ -1,0 +1,1 @@
+Recuerda que `DibujarLinea3` recibe un parámetro.

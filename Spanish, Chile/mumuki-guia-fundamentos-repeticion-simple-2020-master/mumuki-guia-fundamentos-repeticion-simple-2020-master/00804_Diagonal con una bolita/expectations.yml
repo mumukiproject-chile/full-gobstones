@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: Diagonal4Azul
+    inspection: HasRepeat

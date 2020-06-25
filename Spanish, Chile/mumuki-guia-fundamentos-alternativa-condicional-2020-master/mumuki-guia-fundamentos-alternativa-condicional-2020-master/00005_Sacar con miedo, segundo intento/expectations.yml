@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: SacarAzulConMiedo
+    inspection: HasIf
+  - !ruby 
+    binding: SacarAzulConMiedo
+    inspection: HasUsage:hayBolitas

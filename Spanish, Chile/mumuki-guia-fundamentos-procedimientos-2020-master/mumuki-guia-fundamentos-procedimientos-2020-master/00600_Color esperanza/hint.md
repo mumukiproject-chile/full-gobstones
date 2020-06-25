@@ -1,0 +1,1 @@
+`DibujarLineaVerde3` es igual a `DibujarLineaNegra3`, sólo que dibuja una linea verde. :wink:

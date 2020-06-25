@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: CompletarCelda
+    inspection: HasIf
+  - !ruby 
+    binding: CompletarCelda
+    inspection: HasUsage:hayBolitas

@@ -1,0 +1,1 @@
+Todavía no te dimos ninguna herramienta nueva, así que vas a tener que resolverlo con lo que sabes hasta ahora. Y sí, es bastante mala la solución que puedes crear. :pensive:

@@ -1,0 +1,1 @@
+Para dividir en _subtareas_ vas a tener que pensar si puedes partir el problema principal de dibujar una L en problemas más chicos, y cada uno de ellos será un procedimiento nuevo que deberás usar desde `ListelEnL`. 

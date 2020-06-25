@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: BandaDiagonal4
+    inspection: HasUsage:Diagonal4AzulVolviendo
+  - !ruby 
+    binding: BandaDiagonal4
+    inspection: HasRepeat

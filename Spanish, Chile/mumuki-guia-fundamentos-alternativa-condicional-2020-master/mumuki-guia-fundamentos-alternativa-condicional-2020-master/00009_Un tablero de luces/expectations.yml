@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: PrenderOApagarLuz
+    inspection: HasIf
+  - !ruby 
+    binding: PrenderOApagarLuz
+    inspection: HasUsage:hayBolitas

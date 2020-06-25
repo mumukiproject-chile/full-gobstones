@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: AsegurarUnaBolitaVerde
+    inspection: HasIf
+  - !ruby 
+    binding: AsegurarUnaBolitaVerde
+    inspection: HasUsage:hayBolitas

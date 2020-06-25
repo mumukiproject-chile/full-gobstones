@@ -1,0 +1,1 @@
+Acuérdate de que los procedimientos se definen sólo una vez, y `Poner3Rojas` ya lo definiste en uno de los ejercicios anteriores. Acá simplemente tienes que usarlo, ¿pero cuántas veces? :thinking:

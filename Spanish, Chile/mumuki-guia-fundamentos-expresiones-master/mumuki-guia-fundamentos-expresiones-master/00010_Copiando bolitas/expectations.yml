@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: CopiarVerdesEnRojas
+    inspection: Uses:PonerN
+  - !ruby 
+    binding: CopiarVerdesEnRojas
+    inspection: Uses:nroBolitas

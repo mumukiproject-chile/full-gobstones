@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: estoyRodeadoDe
+    inspection: HasUsage:hayBolitasAl

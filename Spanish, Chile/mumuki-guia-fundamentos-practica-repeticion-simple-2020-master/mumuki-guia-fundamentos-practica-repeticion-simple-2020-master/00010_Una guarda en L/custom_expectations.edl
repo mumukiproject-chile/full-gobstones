@@ -1,0 +1,2 @@
+expectation "Hay que dividir en subtareas. Ten en cuenta qué partes de tu código se repiten y trasládalas a un nuevo procedimiento":
+   within `ListelEnL` delegates; 

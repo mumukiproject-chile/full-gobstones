@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: estoyEnUnBorde
+    inspection: HasUsage:puedeMover

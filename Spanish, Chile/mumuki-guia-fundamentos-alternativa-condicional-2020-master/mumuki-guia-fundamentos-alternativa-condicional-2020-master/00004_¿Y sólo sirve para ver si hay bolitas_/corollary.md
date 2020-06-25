@@ -1,0 +1,1 @@
+¿Y si hubiéramos querido movernos hacia el norte en caso de que **no** hubiera celdas al este?
